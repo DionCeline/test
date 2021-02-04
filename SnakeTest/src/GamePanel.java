@@ -12,6 +12,7 @@ import java.util.Random;
  * 注：先创建一个窗体，然后在窗体上创建一个面板，面板上可以填充图片信息
  * */
 public class GamePanel extends JPanel{
+    //贪吃蛇测试
     //定义两个数组
     //蛇的长度：
     int length;
